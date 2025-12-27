@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Chroma / database
+chroma_db/
+*.sqlite3
+
+# Data (if you keep large raw datasets out of git, uncomment)
+# data/
+
+# Logs, caches, temp
+*.log
+*.tmp
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Misc
+*.pyc
+*.pyo
