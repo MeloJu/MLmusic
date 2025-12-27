@@ -38,3 +38,6 @@ chroma_db/
 # Misc
 *.pyc
 *.pyo
+
+# Local cleanup notes (should not be committed)
+CLEANUP.md
